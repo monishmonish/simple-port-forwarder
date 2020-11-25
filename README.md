@@ -12,7 +12,7 @@ python3 main.py
 # Screenshots
 
 Test HTML file in Apache2 Server
-![Screenshot](Screenshot ApacheServer.png)
+![Screenshot](https://raw.githubusercontent.com/monishmonish/simple-port-forwarder/main/Screenshot%20ApacheServer.png)
 
 Port Forwarding My Apache Server Home Page (127.0.0.1:80) To Local Port
 ![Screenshot](Screenshot PortForwarder.png)
